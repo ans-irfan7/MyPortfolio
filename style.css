@@ -29,10 +29,11 @@ h2 {
 ul {
     list-style: square;
     padding-left: 20px;
-    li a{
-        text-decoration: none;
-        color: #222;
-    }
+}
+
+ul li a{
+    text-decoration: none;
+    color: #222;
 }
 
 footer {
